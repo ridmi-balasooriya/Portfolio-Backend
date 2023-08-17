@@ -1,6 +1,0 @@
-### Google App Passwords ###
-email: ridmi.developer@gmail.com
-pass: trcplmxmtnybicnb
-
-email: ridmi.portfolio@gmail.com
-pass: euigyoqcpbtjqjjy
